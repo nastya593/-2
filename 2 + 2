@@ -1,0 +1,5 @@
+start
+new answer number
+set answer 2 + 2
+log number answer 
+finish
